@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alyssa LaValle
-- 👀 I’m interested in Front-End, Back-End, and Machine Learning
+- 👀 I’m interested in Front-End, Back-End, Firmware, and Machine Learning
 - 🌱 I’m currently a student at San Diego State University
 - 💞️ I’m looking to collaborate on any project that I can be of assistance towards
 
