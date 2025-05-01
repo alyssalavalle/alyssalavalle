@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alyssa LaValle
 - 👀 I’m interested in Front-End, Back-End, Firmware, and Machine Learning
-- 🌱 I’m currently a student at San Diego State University
+- 🌱 B.S. in Computer Engineering/Computer Science Minor
+- 🧠 M.S. Information Systems Student @ SDSU
 - 💞️ I’m looking to collaborate on any project that I can be of assistance towards
 
 <!---
